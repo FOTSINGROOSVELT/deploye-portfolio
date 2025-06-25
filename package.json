@@ -1,5 +1,5 @@
 {
-  "hommepage": "https://FOTSINGROOSVELT.github.io/deploye-portfolio",
+  "homepage": "https://FOTSING ROOSVELT.github.io/deploye-portfolio/",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
